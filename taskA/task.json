@@ -1,1 +1,1 @@
-{"title":"Task A","name":"taskA","environmentVariables":[]}
+{"title":"Task A","name":"taskA","environmentVariables":[],"parameters":["--filename /storage/a.out","--filesize 1024"],"id":0}
