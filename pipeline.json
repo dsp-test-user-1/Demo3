@@ -1,1 +1,1 @@
-{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"taskA","dependsOn":[],"location":{"x":92.625,"y":99}}]}
+{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"taskA","dependsOn":[],"location":{"x":92.625,"y":99}},{"task":"something","dependsOn":["taskA"],"location":{"x":520,"y":153}},{"task":"task3","dependsOn":["taskA"],"location":{"x":503,"y":486}}]}
